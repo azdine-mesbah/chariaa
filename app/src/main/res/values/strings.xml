@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">CHARIAA</string>
+    <string name="login">Login</string>
+    <string name="nins">رقم التسجيل :</string>
+    <string name="date_naissance">تاريخ الازدياد :</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="action_settings">Setting</string>
+    <string name="btn_login">تسجيل الدخول</string>
+    <string name="ads">اعلانات</string>
+    <string name="books">كتب</string>
+    <string name="questions">اسئلة</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="communication">تواصل</string>
+    <string name="espace_etudiant">فضاء الطالب</string>
+    <string name="Articles">اعلانات</string>
+    <string name="about">حول التطبيق</string>
+    <string name="main">الرئيسية</string>
+    <string name="retry">اعادة المحاولة</string>
+    <string name="next_update">ستتوفر هذه الميزة في التحديثات القادمة</string>
+    <string name="No_Connection">no internet !!</string>
+    <string name="Connection_TimeOut">Connection_TimeOut</string>
+    <string name="All_fields_required">All fields required</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="main_url">http://192.168.1.18/chariaa/</string>
+
+    <string name="data_Releve">datareleve.php</string>
+    <string name="data_Etudiant">dataetudiant.php</string>
+    <string name="data_Article">articles.php</string>
+    <string name="data_MyCollection">mycollection.php</string>
+
+    <string name="pdf_viewer">http://docs.google.com/viewer?url=</string>
+    <string name="file_source">http://www.chariaa.usmba.ac.ma//packages/file/articles/</string>
+    <string name="url_library">http://www.chariaafes.net/bibliotheque/index.php</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
